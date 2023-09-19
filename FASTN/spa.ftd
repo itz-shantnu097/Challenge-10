@@ -59,7 +59,7 @@ login-button: $page.login-button
 -- ds.page.footer:
 
 -- footer.fastn-footer:
-copyright: Copyright © 2035 Midnight
+copyright: Copyright © 2035 HARPERS
 site-logo: $common.fastn-logo
 powered-by-text: Powered by
 powered-by-link: https://fastn.com/
